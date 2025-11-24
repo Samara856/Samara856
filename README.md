@@ -7,9 +7,9 @@
 
 ---
 <img align="right" alt="Coding" width="200" length="200" src="https://github.com/Samara856/Samara856/blob/main/NUX_Octodex.gif">
-## 🌟 About Me  
-I'm a dedicated **Computer Science & Engineering student** with a deep interest in  
-**Web Development, Machine Learning, and Problem Solving**.  
+🌟 About Me  
+I'm a dedicated Computer Science & Engineering student with a deep interest in  
+Web Development, Machine Learning, and Problem Solving.  
 I love exploring new technologies, building projects, and improving my skills every day.
 
 - 🌱 Currently learning: **WebDev, Machine Learning, SQL**
