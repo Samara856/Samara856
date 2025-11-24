@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+<img align="right" alt="Coding" width="200" length="200" src="https://github.com/Samara856/Samara856/blob/main/NUX_Octodex.gif">
 ## 🌟 About Me  
 I'm a dedicated **Computer Science & Engineering student** with a deep interest in  
 **Web Development, Machine Learning, and Problem Solving**.  
